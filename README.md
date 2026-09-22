@@ -34,7 +34,7 @@ Analysis tools for biodiversity research data. This project demonstrates reprodu
    ```
 
 > Want a fully reproducible, cross-platform environment (Python + R with a lockfile)?
-> See the optional pixi setup on the `optional-pixi` branch.
+> See the optional pixi setup on the `06-optional-pixi` branch.
 
 ## Contributing
 
